@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/edyodastoryassign/static/css/main.26221d2d.css",
+    "main.js": "/edyodastoryassign/static/js/main.aaa4256a.js",
+    "static/js/787.d4aba7ab.chunk.js": "/edyodastoryassign/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/edyodastoryassign/index.html",
+    "main.26221d2d.css.map": "/edyodastoryassign/static/css/main.26221d2d.css.map",
+    "main.aaa4256a.js.map": "/edyodastoryassign/static/js/main.aaa4256a.js.map",
+    "787.d4aba7ab.chunk.js.map": "/edyodastoryassign/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26221d2d.css",
+    "static/js/main.aaa4256a.js"
+  ]
+}
